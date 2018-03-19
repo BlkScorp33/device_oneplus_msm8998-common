@@ -275,8 +275,8 @@ PRODUCT_PACKAGES += \
     com.android.future.usb.accessory
 
 # VNDK-SP:
-PRODUCT_PACKAGES += \
-    vndk-sp
+#PRODUCT_PACKAGES += \
+#    vndk-sp
 
 # WiFi
 PRODUCT_PACKAGES += \
