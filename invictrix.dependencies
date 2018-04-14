@@ -1,0 +1,17 @@
+[,
+  {
+    "repository":  "BlkScorp33/android_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch":      "scorp"
+  },
+  {
+    "repository":  "BlkScorp33/kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch":      "scorp"
+  },
+  {
+    "repository":  "BlkScorp33/vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch":      "scorp"
+  }
+]
