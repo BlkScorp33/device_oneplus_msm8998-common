@@ -222,6 +222,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     sys.usb.rndis.func.name=gsi \
     sys.usb.rmnet.func.name=gsi
 
+# VoLTE
+persist.dbg.ims_volte_enable=1
+persist.dbg.volte_avail_ovr=1
+
 # Wi-Fi
 PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0    
